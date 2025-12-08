@@ -1,5 +1,7 @@
 # Learning Manim
 
+> These notebooks are a work in progress, if you have any suggestions on how to improve them, please let me know. ;)
+
 Manim (**Ma**thematical **Anim**ations) is the *Python* library developed by Grant Sanderson for his Youtube-Channel *3Blue1Brown*. Even though there are probably unlimited tutorials about the library online, I have decided to come up with some own jupyter-notebooks that (hopefully) help in understanding a few fundamentals of manim and provide some examples to copy-paste:
 
 0. `Setting Up Manim:` Simply how to use manim (locally).
