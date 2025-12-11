@@ -8,7 +8,7 @@ Bei Fragen meldet euch gerne bei mir:
 carlo.voncarnap@stud.uni-goettingen.de
 
 Anmelden könnt ihr euch über StudIP:
-https://studip.uni-goettingen.de/dispatch.php/course/details?sem_id=2151dce0455afbd533855965e226ac0d&again=yes
+[StudIP-Link](https://studip.uni-goettingen.de/dispatch.php/course/details?sem_id=2151dce0455afbd533855965e226ac0d&again=yes)
 
 ## Ziel des Hackathons
 
