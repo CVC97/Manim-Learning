@@ -1,8 +1,14 @@
-# *Manim*-Hackathon
+# *Manim*-Hackathon von 19.-21. März 2026
 
-*Manim* (**M**athematical **Animations**) ist die *Python*-Bibliothek hinter dem Youtube-Kanal *3Blue1Brown* und eignet sich hervorragend zur Erstellung von mathematischen oder physikalische Animationen.
+*Manim* (**M**athematical **Anim**ations) ist die *Python*-Bibliothek hinter dem Youtube-Kanal *3Blue1Brown* und eignet sich hervorragend zur Erstellung von mathematischen oder physikalische Animationen.
 
-Eine kleine Sammlung an Animationen findet ihr [hier](https://cvc97.github.io/Physics-Education-Animations/), eine Kurzeinführung in die Bibliothek mit Beispielcode [hier](https://github.com/CVC97/Manim-Learning).
+Eine kleine Sammlung an Animationen findet ihr [hier](https://cvc97.github.io/Physics-Education-Animations/), eine Kurzeinführung in die Bibliothek mit Beispielnotebooks [hier](https://github.com/CVC97/Manim-Learning).
+
+Bei Fragen meldet euch gerne bei mir:
+carlo.voncarnap@stud.uni-goettingen.de
+
+Anmelden könnt ihr euch über StudIP:
+https://studip.uni-goettingen.de/dispatch.php/course/details?sem_id=2151dce0455afbd533855965e226ac0d&again=yes
 
 ## Ziel des Hackathons
 
@@ -16,13 +22,19 @@ Es werden keine *Manim*-Vorkenntnisse benötigt (die Bibliothek zu lernen ist ja
 
 Für die Verpflegung ist gesorgt!
 
-## Zeitplan
+## Wann?
+
+Der Hackathon findet von 19. bis zum 21. März 2026 statt, der Ablauf soll ungefähr so aussehen. 
 
 Zeit | Donnerstag | Freitag | Samstag |
 -------- | -------- | -------- | -------- |
 10:00-12:00 | | Gruppenbildung und Projektplanung | Arbeit am Projekt |
 13:00-16:00 | Kennenlernen und Kurzeinführung in *Manim* | Arbeit am Projekt | Projektabschluss |
 16:00-18:00 | Ideenfindung | Arbeit am Projekt | Vorstellung der Projekte, Siegerehrung |
+
+## Wo?
+
+Der Hackathon wird in der Fakultät für Physik stattfinden, Räume TBD.
 
 ## Prämierung
 
